@@ -1,0 +1,9 @@
+{
+  "name": "check-host-name-pattern2",
+  "version": "0.0.0",
+  "description": "CheckHostNamePattern2",
+  "main": "app.js",
+  "author": {
+    "name": "user"
+  }
+}

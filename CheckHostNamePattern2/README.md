@@ -1,0 +1,3 @@
+﻿# CheckHostNamePattern2
+
+
